@@ -8,6 +8,8 @@ description: "This code is part of the Microsoft Learn module of the AKS worksho
 urlFragment: "aksworkshop-ratings-api"
 ---
 
+#### Demo Branch Protection 
+
 # AKS Workshop - ratings-api sample code
 
 <!-- 
